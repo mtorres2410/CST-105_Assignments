@@ -1,5 +1,5 @@
 /**
- *@author MiguelVR
+ *@author Miguel Torres
  * CST 105 Week 2 Assignment Part 1
  */
 package part1.digits;
