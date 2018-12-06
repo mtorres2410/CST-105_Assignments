@@ -1,6 +1,6 @@
 /**
- *
- * @author MiguelVR
+ *@author Miguel Torres
+ * CST 105 This is my own work
  */
 
 
